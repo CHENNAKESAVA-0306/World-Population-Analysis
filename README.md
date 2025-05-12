@@ -1,5 +1,10 @@
 World Population Analyisis by using Machine Learning 
 
+overview of the project :
+
+main purpose of the project is to analyze global population trends, predict future population growth, and identify key factors influencing demographic changes using machine learning (ML) and data analysis techniques
+
+
 Packages Installation:
 
     pip install numpy
